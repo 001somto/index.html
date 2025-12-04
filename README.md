@@ -94,7 +94,7 @@
 <body>
     <div class="container">
         <div class="card">
-            <h1>Welcome to <span class="accent">Somto</span><br>Cloud DevOp </h1>
+            <h1>Welcome to <span class="accent">Host a static website</span><br>Cloud DevOp </h1>
             <div class="divider"></div>
             <p class="subtitle">Understanding CLoud Computing</p>
             <p class="info-text">Learn essential skills for modern cloud infrastructure and deployment workflows in a comprehensive learning environment.</p>
